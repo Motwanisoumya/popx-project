@@ -1,6 +1,8 @@
 {
   "name": "landing-page",
   "private": true,
+  "homepage": ".",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -8,6 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+ 
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
